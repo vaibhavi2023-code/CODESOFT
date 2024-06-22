@@ -1,2 +1,3 @@
 # CODESOFT
-This is my first Github repositry .
+This is my first Git repositry .
+Author - Vaibhavi Agrawal 
